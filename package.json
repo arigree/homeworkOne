@@ -1,0 +1,14 @@
+{
+  "name": "homework-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass scss/styles.scss css/styles.css -w --no-source-map"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.78.0"
+  }
+}
